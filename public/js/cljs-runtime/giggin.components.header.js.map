@@ -1,0 +1,1 @@
+{"version":3,"sources":["giggin/components/header.cljs"],"mappings":";;AAEA,AAAA,AAAMA;AAAN,AAAA,AAAA,AAAA,AAAA,AAAA","names":["giggin.components.header/header"],"sourcesContent":["(ns giggin.components.header)\n\n(defn header\n  []\n  [:header\n   [:h1 \"\u0420\u0430\u0441\u043f\u0438\u0441\u0430\u043d\u0438\u0435 \u0432\u0441\u0442\u0440\u0435\u0447\"]])\n"]}

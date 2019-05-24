@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"com.cognitect.transit.delimiters.js",
+"lineCount":10,
+"mappings":"AAcAA,IAAAC,QAAA,CAAa,kCAAb,CAAA;AAEAD,IAAAE,MAAA,CAAW,QAAQ,EAAG;AAEtB,MAAIC,aAAaC,GAAAC,UAAAC,QAAAH,WAAjB;AAMA,+BAAAA,UAAAI,IAAA,GAAqB,GAArB;AAMA,+BAAAJ,UAAAK,IAAA,GAAqB,GAArB;AAMA,+BAAAL,UAAAM,IAAA,GAAqB,GAArB;AAMA,+BAAAN,UAAAO,IAAA,GAAqB,GAArB;AAMA,+BAAAP,UAAAQ,QAAA,GAAqB,IAArB;AAhCsB,CAAtB,CAAA;;",
+"sources":["com/cognitect/transit/delimiters.js"],
+"names":["goog","provide","scope","delimiters","com","cognitect","transit","ESC","TAG","SUB","RES","ESC_TAG"]
+}

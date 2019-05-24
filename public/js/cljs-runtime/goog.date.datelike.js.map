@@ -1,0 +1,8 @@
+{
+"version":3,
+"file":"goog.date.datelike.js",
+"lineCount":4,
+"mappings":"AAoBAA,IAAAC,QAAA,CAAa,oBAAb,CAAA;AAEAD,IAAAE,eAAA,CAAoB,gBAApB,CAAA;AAMA,wCAAAF,IAAAG,KAAAC,SAAA;;",
+"sources":["goog/date/datelike.js"],
+"names":["goog","provide","forwardDeclare","date","DateLike"]
+}
